@@ -2,6 +2,7 @@
 
 ## Unreleased
 - Fix the KEP.uz problem parser for the redesigned interface
+- Fix the KEP.uz contest parser after the contests URL scheme moved from `/competitions/contests/contest/<id>/problems` to `/contests/<id>/problems`
 
 ## [2.65.0](https://github.com/jmerle/competitive-companion/releases/tag/2.65.0) (2026-06-29)
 - Add support for Wincent DragonByte (thanks [@EgorKulikov](https://github.com/EgorKulikov))
